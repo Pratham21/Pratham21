@@ -78,4 +78,4 @@ Production-grade SQL patterns: window functions, funnel drop-off analysis, cohor
 
 ---
 
-*Open to Senior Data Engineering, Analytics Engineering, and Analytics Lead roles in Bangalore / India.*
+*Open to Analytics Manager, Senior Analytics Engineering, Analytics Engineering, and Analytics Lead roles in Bangalore / Hyderabad / Gurugram / Pune / Noida, India.*
