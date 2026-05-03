@@ -16,7 +16,7 @@
 | **eBay** | Advanced Analytics Developer | 2024–2025 |
 | **Tesla** | Analytics Lead, Residential Energy | 2022–2023 |
 | **Verizon** | Data Analyst & BI Engineer | 2019–2022 |
-| **Hewlett Packard** | Data Analyst | 2017–2019 |
+| **HP, Inc.** | Data Analyst | 2017–2019 |
 | **Walt Disney Company** | Big Data Engineer Intern | 2017 |
 
 ---
@@ -55,12 +55,12 @@ Apache Airflow DAG for automated ETL: REST API extraction → Python/Pandas tran
 `Airflow` `Python` `BigQuery` `Pandas` `GCP`
 
 ### 📊 [advanced-sql-patterns](https://github.com/Pratham21/advanced-sql-patterns)
-Production-grade SQL patterns: window functions, funnel drop-off analysis, cohort retention matrices, churn flags, and Hive-specific optimisations — all with business context in comments.  
+Production-grade SQL patterns: window functions, funnel drop-off analysis, cohort retention matrices, churn flags, and Hive-specific optimizations — all with business context in comments.  
 `SQL` `BigQuery` `Hive` `Window Functions` `Analytics`
 
 ---
 
-## 📈 What I build
+## 📈 What I built
 
 - **ETL Pipelines** — Airflow, Databricks, BigQuery, GCP at scale (100K+ customer datasets)
 - **Sales & Revenue Analytics** — funnel analysis, cohort models, billing transition tracking
