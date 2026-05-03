@@ -2,7 +2,7 @@
 
 **Senior Analytics Engineer** with 10+ years building data pipelines, analytics platforms, and BI solutions across Fortune 500 companies — Intuit, eBay, Tesla, HP, Verizon, and Disney.
 
-📍 Open to Senior Data Engineering & Analytics roles in India  
+📍 Open to a Staff Analytics Engineer / Analytics Manager roles in India  
 📧 prathambharadwaj21@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/pratham-bharadwaj-47664371) · [Tableau Public](https://public.tableau.com/app/profile/pratham8634/vizzes) · [Stratascratch](https://platform.stratascratch.com/user/RustyNail486) · [HackerRank](https://www.hackerrank.com/profile/prathambharadwa1)
 
