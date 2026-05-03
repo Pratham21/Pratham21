@@ -1,6 +1,6 @@
 # Hi, I'm Pratham Bharadwaj 👋
 
-**Senior Data Engineer** with 10+ years building data pipelines, analytics platforms, and BI solutions across Fortune 500 companies — Intuit, eBay, Tesla, HP, Verizon, and Disney.
+**Senior Analytics Engineer** with 10+ years building data pipelines, analytics platforms, and BI solutions across Fortune 500 companies — Intuit, eBay, Tesla, HP, Verizon, and Disney.
 
 📍 Open to Senior Data Engineering & Analytics roles in India  
 📧 prathambharadwaj21@gmail.com  
