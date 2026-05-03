@@ -74,7 +74,7 @@ Production-grade SQL patterns: window functions, funnel drop-off analysis, cohor
 - 🎓 Ph.D. in Information Technology — University of the Cumberlands *(2021–2026)*
 - 🎓 MBA in Information Technology — Campbellsville University *(2019–2021)*
 - 🎓 M.S. in Management Information Systems — UT Arlington *(2015–2016)*
-- 🎓 B.TECH in Computer Science & Engineering — M.D.U Rohtak *(2015–2016)*
+- 🎓 B.TECH in Computer Science & Engineering — M.D.U Rohtak *(2009–2013)*
 
 ---
 
