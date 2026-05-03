@@ -12,7 +12,7 @@
 
 | Company | Role | Period |
 |---|---|---|
-| **Intuit** (QuickBooks Enterprise) | Senior Data Engineer | 2023–2024, 2025–2026 |
+| **Intuit** (QuickBooks Enterprise) | Senior Analytics Engineer | 2023–2024, 2025–2026 |
 | **eBay** | Advanced Analytics Developer | 2024–2025 |
 | **Tesla** | Analytics Lead, Residential Energy | 2022–2023 |
 | **Verizon** | Data Analyst & BI Engineer | 2019–2022 |
