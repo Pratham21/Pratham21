@@ -38,9 +38,12 @@
 
 **Analytics & BI**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![Google Analytics 360](https://img.shields.io/badge/Google_Analytics_360-E37400?style=flat&logo=google-analytics&logoColor=white)
+![Adobe Analytics](https://img.shields.io/badge/Adobe_Analytics-FF0000?style=flat&logo=adobe&logoColor=white)
+![Tealium](https://img.shields.io/badge/Tealium-00A1DE?style=flat&logo=tealium&logoColor=white)
+![Data Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
 ---
 
