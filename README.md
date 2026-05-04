@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-**Data Engineering & Platforms**  
+**Analytics Engineering & Platforms**  
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
